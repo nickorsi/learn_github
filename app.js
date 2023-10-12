@@ -1,1 +1,1 @@
-let result = 'fun';
+let result = 'FUN';
